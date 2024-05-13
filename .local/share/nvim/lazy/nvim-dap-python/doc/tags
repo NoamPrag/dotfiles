@@ -1,0 +1,15 @@
+DebugpyConsole	dap-python.txt	/*DebugpyConsole*
+TestRunner	dap-python.txt	/*TestRunner*
+dap-python	dap-python.txt	/*dap-python*
+dap-python.DebugOpts	dap-python.txt	/*dap-python.DebugOpts*
+dap-python.DebugpyConfig	dap-python.txt	/*dap-python.DebugpyConfig*
+dap-python.DebugpyLaunchConfig	dap-python.txt	/*dap-python.DebugpyLaunchConfig*
+dap-python.PathMapping	dap-python.txt	/*dap-python.PathMapping*
+dap-python.SetupOpts	dap-python.txt	/*dap-python.SetupOpts*
+dap-python.debug_selection	dap-python.txt	/*dap-python.debug_selection*
+dap-python.resolve_python	dap-python.txt	/*dap-python.resolve_python*
+dap-python.setup	dap-python.txt	/*dap-python.setup*
+dap-python.test_class	dap-python.txt	/*dap-python.test_class*
+dap-python.test_method	dap-python.txt	/*dap-python.test_method*
+dap-python.test_runner	dap-python.txt	/*dap-python.test_runner*
+dap-python.test_runners	dap-python.txt	/*dap-python.test_runners*

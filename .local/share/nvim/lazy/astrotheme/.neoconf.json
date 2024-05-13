@@ -1,0 +1,21 @@
+{
+  "neodev": {
+    "library": {
+      "enabled": true,
+      "plugins": ["lazy.nvim"]
+    }
+  },
+  "neoconf": {
+    "plugins": {
+      "lua_ls": {
+        "enabled": true
+      }
+    }
+  },
+  "lspconfig": {
+    "lua_ls": {
+      "Lua.format.enable": false,
+      "Lua.diagnostics.globals": ["packer_plugins"]
+    }
+  }
+}

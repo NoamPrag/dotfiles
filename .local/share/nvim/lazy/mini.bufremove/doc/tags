@@ -1,0 +1,8 @@
+MiniBufremove	mini-bufremove.txt	/*MiniBufremove*
+MiniBufremove.config	mini-bufremove.txt	/*MiniBufremove.config*
+MiniBufremove.delete()	mini-bufremove.txt	/*MiniBufremove.delete()*
+MiniBufremove.setup()	mini-bufremove.txt	/*MiniBufremove.setup()*
+MiniBufremove.unshow()	mini-bufremove.txt	/*MiniBufremove.unshow()*
+MiniBufremove.unshow_in_window()	mini-bufremove.txt	/*MiniBufremove.unshow_in_window()*
+MiniBufremove.wipeout()	mini-bufremove.txt	/*MiniBufremove.wipeout()*
+mini.bufremove	mini-bufremove.txt	/*mini.bufremove*

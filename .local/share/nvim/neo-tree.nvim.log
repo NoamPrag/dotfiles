@@ -1,0 +1,10 @@
+[INFO  Sat Apr  6 17:59:09 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: true
+[INFO  Sat Apr  6 17:59:15 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Sat Apr  6 18:19:52 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: true
+[INFO  Sat Apr  6 19:14:52 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: true
+[INFO  Sat Apr  6 19:17:29 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: true
+[INFO  Sat Apr  6 19:17:33 2024] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Sat Apr  6 19:17:44 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: true
+[INFO  Sat Apr  6 19:33:58 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: true
+[INFO  Fri May  3 14:54:39 2024] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: true
+[INFO  Fri May  3 15:59:32 2024] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed agamim_dashboard.lua successfully

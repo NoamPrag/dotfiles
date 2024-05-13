@@ -1,0 +1,1 @@
+{"schema_version":"1.1","name":"python-lsp-server","metrics":{"start_time":1712415959175,"completion_time":1712415969429},"primary_source":{"type":"registry+v1","id":"pkg:pypi\/python-lsp-server@1.11.0?extra=all"},"links":{"bin":{"pylsp":"venv\/bin\/pylsp"},"opt":{},"share":{"mason-schemas\/lsp\/python-lsp-server.json":"mason-schemas\/lsp.json"}},"secondary_sources":[]}
